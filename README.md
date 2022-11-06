@@ -1,5 +1,8 @@
 # DoorDash-Interview-Assement
-This Cavin's GitHub repository that contains a technical interview assesment that is given by Doordash.
+This Cavin's GitHub repository that contains a technical interview assesment that is given by Doordash. 
+
+#### If you would like to access to my work on Jupyter workbook, you can click the link here: https://github.com/cavinlauw/DoorDash-Interview-Assement/blob/main/Analysis_for_Doordash_assessment.ipynb
+
 
 The tools that I was using were Jupyter Notebook and Python (Pandas and Matplotlib). I was able to gain three perspective of insights from the raw data.
  ### 
@@ -39,10 +42,4 @@ Another perspective that we can take a look at is focusing on the regions that h
 
 ![image](https://user-images.githubusercontent.com/117507435/200166745-7213b231-1d13-4ac7-a8f1-338315f5dbb3.png)
 
-
-
-
 ##
-
-If you would like to access to my work on my Jupyter workbook, you can click the link here:
-https://github.com/cavinlauw/DoorDash-Interview-Assement/blob/main/Analysis_for_Doordash_assessment.ipynb
