@@ -19,7 +19,7 @@ I used horizontal bar graph to find out the customer trend when choosing either 
 
 ## Driver/ Dasher Perspective
  I used a scatter plot to find out if Order total ($) affecting how customer tipping the driver or not.
- The plot below shows that customers who placed order up to $100 mostly tip the driver around $0 to $10. For customer who bought food more than $100 tends to to tip $5 to $20. In conclusion, we can see that the tips are affected not much by the Order Total ($).
+ The plot below shows that customers who placed order up to 100($) mostly tip the driver around 0($) to 10($). For customer who bought food more than 100($) tends to to tip 5($) to 20($). In conclusion, we can see that the tips are affected not much by the Order Total ($).
  
  ![image](https://user-images.githubusercontent.com/117507435/200164789-8d18e68a-9205-4190-81bc-02d97c1cfdf3.png)
  
