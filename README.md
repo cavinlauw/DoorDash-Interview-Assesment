@@ -14,3 +14,6 @@ The first is the customer perspective, the second is the driver/ dasher perspect
 ## Restaurant Perspective
 
 I was able to find some data descripancy during my analysis on 
+
+If you would like to access to my work on my Jupyter workbook, you can click the link below:
+https://github.com/cavinlauw/DoorDash-Interview-Assement/blob/main/Analysis_for_Doordash_assessment.ipynb
