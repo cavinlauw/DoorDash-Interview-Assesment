@@ -1,4 +1,4 @@
-# DoorDash-Interview-Assement
+# DoorDash-Interview-Assesment
 This Cavin's GitHub repository that contains a technical interview assesment that is given by Doordash. 
 
 #### If you would like to access to my work on Jupyter workbook, you can click the link here: https://github.com/cavinlauw/DoorDash-Interview-Assement/blob/main/Analysis_for_Doordash_assessment.ipynb
